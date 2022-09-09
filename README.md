@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lukman Bayonle Salami 
-- 👀 I’m interested in Data Analyst and Data Science 
+- 👀 I’m interested in Data Analyst, Machine Learning and Data Science 
 - 🌱 I’m a Google Certified Data Analyst 
 - 💞️ I’m looking to collaborate on R Programming || Python || 
 - 📫 bayonlelukmansalami@gmail.com 
